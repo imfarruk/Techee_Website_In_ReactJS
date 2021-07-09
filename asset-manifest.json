@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Techee_Website_In_ReactJS/static/css/main.b177b00f.chunk.css",
+    "main.js": "/Techee_Website_In_ReactJS/static/js/main.3ca01a4e.chunk.js",
+    "main.js.map": "/Techee_Website_In_ReactJS/static/js/main.3ca01a4e.chunk.js.map",
+    "runtime-main.js": "/Techee_Website_In_ReactJS/static/js/runtime-main.677abac7.js",
+    "runtime-main.js.map": "/Techee_Website_In_ReactJS/static/js/runtime-main.677abac7.js.map",
+    "static/css/2.4be38407.chunk.css": "/Techee_Website_In_ReactJS/static/css/2.4be38407.chunk.css",
+    "static/js/2.19d07208.chunk.js": "/Techee_Website_In_ReactJS/static/js/2.19d07208.chunk.js",
+    "static/js/2.19d07208.chunk.js.map": "/Techee_Website_In_ReactJS/static/js/2.19d07208.chunk.js.map",
+    "index.html": "/Techee_Website_In_ReactJS/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Techee_Website_In_ReactJS/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.b177b00f.chunk.css.map": "/Techee_Website_In_ReactJS/static/css/main.b177b00f.chunk.css.map",
+    "static/js/2.19d07208.chunk.js.LICENSE.txt": "/Techee_Website_In_ReactJS/static/js/2.19d07208.chunk.js.LICENSE.txt",
+    "static/media/contact.915a516c.png": "/Techee_Website_In_ReactJS/static/media/contact.915a516c.png",
+    "static/media/dev2_.25de0290.png": "/Techee_Website_In_ReactJS/static/media/dev2_.25de0290.png",
+    "static/media/dev3.34c5a8de.png": "/Techee_Website_In_ReactJS/static/media/dev3.34c5a8de.png",
+    "static/media/dev4.0a489342.jpg": "/Techee_Website_In_ReactJS/static/media/dev4.0a489342.jpg",
+    "static/media/dev5.1273e8c2.jpg": "/Techee_Website_In_ReactJS/static/media/dev5.1273e8c2.jpg",
+    "static/media/techanda.851d2c2a.png": "/Techee_Website_In_ReactJS/static/media/techanda.851d2c2a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.677abac7.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.19d07208.chunk.js",
+    "static/css/main.b177b00f.chunk.css",
+    "static/js/main.3ca01a4e.chunk.js"
+  ]
+}
