@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import web from "./images/contact.png";
+import web from "../assest/images/contact1.png";
 import { NavLink, Redirect } from "react-router-dom";
 import "./App.css";
 
@@ -97,7 +97,6 @@ const Contact = (props) => {
                             type="number"
                             className="form-control"
                             id="inputAddress"
-                            placeholder="1234 Main St"
                             name="phone"
                             value={data.phone}
                             onChange={InputEvent}
@@ -113,7 +112,6 @@ const Contact = (props) => {
                             type="textfield"
                             className="form-control"
                             id="inputAddress"
-                            placeholder="1234 Main St"
                             name="message"
                             value={data.message}
                             onChange={InputEvent}
@@ -132,7 +130,11 @@ const Contact = (props) => {
                 </div>
 
                 <div className="col-md-6 order-1 order-lg-2 header-img">
-                  <img src={web} className="img-fluid animated" alt="" />
+                  <img
+                    src={web}
+                    className="img-fluid animated"
+                    alt="contact _img"
+                  />
                 </div>
               </div>
             </div>

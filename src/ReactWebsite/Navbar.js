@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import brandlogo from "./images/techanda.png";
+import brandlogo from "../assest/images/techanda.png";
 import "./App.css";
 
 const Navbar = () => {

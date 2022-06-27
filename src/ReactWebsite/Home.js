@@ -1,6 +1,7 @@
 import React from "react";
 import CommonPage from "./CommonPage";
-import web from "./images/dev2_.png";
+// import web from "/images/dev2_.png";
+import web from "../assest/images/dev2_.png";
 import "./App.css";
 
 const Home = () => {

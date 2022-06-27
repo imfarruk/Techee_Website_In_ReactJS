@@ -1,5 +1,6 @@
 import React from "react";
-import web from "./images/dev3.png";
+// import web from "/images/dev3.png";
+import web from "../assest/images/dev3.png";
 import "./App.css";
 
 const Card = (props) => {

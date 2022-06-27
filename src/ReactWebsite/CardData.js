@@ -1,9 +1,9 @@
-import dev1 from "./images/contact.png";
-import dev2 from "./images/dev4.jpg";
-import dev3 from "./images/dev5.jpg";
-import dev4 from "./images/contact.png";
-import dev5 from "./images/dev4.jpg";
-import dev6 from "./images/dev5.jpg";
+import dev1 from "../assest/images/dev.png";
+import dev2 from "../assest/images/dev2_.png";
+import dev3 from "../assest/images/dev3.png";
+import dev4 from "../assest/images/dev4.jpg";
+import dev5 from "../assest/images/dev5.jpg";
+import dev6 from "../assest/images/dev6.jpg";
 
 const CardData = [
   {
